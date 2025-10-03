@@ -1,4 +1,5 @@
-#Implement Reinforcement Learning algorithm.
+#pra:9 --> Implement Reinforcement Learning algorithm.
+
 #REQUIREMENT: (T.npy) file
 #(can be implemented by "td" and "adp")
 #(we are calculating probable utility by Bellman theorem)

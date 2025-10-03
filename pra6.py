@@ -1,3 +1,6 @@
+# pra:6 AIM: Implement Naive-Bayes learning algo for RWP(Restaurant Waiting Problem).
+
+
 import numpy as np
 
 class NeuralNetwork():

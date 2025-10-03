@@ -1,4 +1,4 @@
-# AIM: Implement Decision-Tree learning algorithm using Entropy
+# pra:5  AIM: Implement Decision-Tree learning algorithm using Entropy
 
 import numpy as np
 import pandas as pd
